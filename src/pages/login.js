@@ -42,7 +42,7 @@ function Login() {
       </div>
       <div className="h-screen my-auto">
         <div className="bg-white text-center mt-16 h-80 border border-gray-300 px-1">
-          <img src="\images\logo.png" alt="logo" className="my-8 py-2" />
+          <img src="\images\IG.png" alt="logo" className="my-8 py-2" />
           {error && <p className="mb-4 text-xs text-red-primary">{error}</p>}
           <form onSubmit={handleLogin}>
             <input

@@ -15,10 +15,10 @@ function Header() {
       <div className="container mx-auto max-w-screen-lg h-full">
         <div className="flex justify-between h-full">
           <div className="text-gray-700 text-center flex items-center align-items cursor-pointer">
-            <h1 className="flex justify-center w-full">
+            <h1 className="flex justify-center w-full"> 
               <Link to={ROUTES.DASHBOARD} aria-label="instagram-logo">
                 <img
-                  src="\images\logo.png"
+                  src="\images\IG.png"
                   alt="logo"
                   className="my-auto h-8"
                 />
