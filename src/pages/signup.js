@@ -55,9 +55,9 @@ function Signup() {
       <div className="h-screen my-auto">
         <div className="bg-white text-center mt-14 h-5/6 border border-gray-300 px-1">
           <img
-            src="\images\logo.png"
+            src="\images\IG.png"
             alt="logo"
-            className="mt-6 mb-4 py-2 text-sm"
+            className="mt-6 mb-4 py-2 text-sm h-15 w-10"
           />
           <div className="mx-auto mb-4">
             <h4 className="font-medium text-gray-500">
